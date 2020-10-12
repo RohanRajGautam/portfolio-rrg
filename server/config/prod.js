@@ -1,5 +1,5 @@
 module.exports = {
   DB_URI: process.env.DB_URI,
-  NAMESPACE: 'https://iamrrg.herokuapp.com'
+  NAMESPACE: 'https://rrg.vercel.app'
 }
 
