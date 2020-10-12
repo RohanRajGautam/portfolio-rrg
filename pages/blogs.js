@@ -53,7 +53,7 @@ class Blogs extends React.Component {
       <BaseLayout {...this.props.auth}
                   headerType={'landing'}
                   className="blog-listing-page"
-                  title="Filip Jerga - Newest Blogs to Read">
+                  title="Rohan Raj Gautam - Newest Blogs to Read">
         <div className="masthead" style={{"backgroundImage": "url('/static/images/home-bg.jpg')"}}>
           <div className="overlay"></div>
           <Container>
@@ -101,7 +101,7 @@ class Blogs extends React.Component {
                       </a>
                     </li>
                   </ul>
-                  <p className="copyright text-muted">Copyright &copy; Filip Jerga 2018</p>
+                  <p className="copyright text-muted">Copyright &copy; Rohan Raj Gautam 2020</p>
                 </div>
               </Row>
             </Container>
