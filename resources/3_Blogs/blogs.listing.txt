@@ -61,7 +61,7 @@
               </a>
             </Link>
             <p className="post-meta">Posted by
-              <a href="#"> Rohan Raj Gauta20</a>
+              <a href="#"> Rohan Raj Gautam</a>
               {moment().format('LLLL')}</p>
           </div>
           <hr></hr>
@@ -103,7 +103,7 @@
                 </a>
               </li>
             </ul>
-            <p className="copyright text-muted">Copyright &copy; Rohan Raj Gautam 2020</p>
+            <p className="copyright text-muted">Copyright &copy; RRG 2020</p>
           </div>
         </Row>
       </Container>

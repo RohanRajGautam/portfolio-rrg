@@ -11,7 +11,7 @@ export default class PortDate extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      dateValue: new Date()
+      dateValue: moment()
     };
   }
 
