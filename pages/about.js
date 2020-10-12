@@ -24,9 +24,12 @@ class About extends React.Component {
                 <p>
                 I prefer to keep learning, continue challenging myself and do interesting things that matter.
                  I am a strong believer that learning never ends.
-                </p>
-                <p>
+                
                 I am interested in working on ambitious projects with positive people. Feel free to take a look at my latest projects and works here.
+                </p>
+
+                <p>
+                  I also have another personal portfolio website where i continuously update my recent projects. So, if you are interested you can have quick peek. 	&#8640; <a href="https://www.rohanrajgautam.com.np/" target="blank"> Rohan Raj Gautam </a>
                 </p>
               </div>
             </Col>
