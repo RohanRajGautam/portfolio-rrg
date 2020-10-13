@@ -11,7 +11,7 @@ const portfolioSchema = new Schema({
   position: setStringType(256),
   description: setStringType(2048),
   startDate: { type: Date, required: true},
-  endDate: Date
+  endDate: { type: Date }
 });
 
 module.exports = mongoose.model('Portfolio', portfolioSchema);
